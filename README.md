@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matheusweyh
-- 👀 I’m interested in JavaScript, HTML, CSS, TypeScript, MongoDB, Go, Java.
 - 🌱 I’m currently learning Full Stack Web Development @ Growdev!
+- 👀 I’m interested in JavaScript, HTML, CSS, TypeScript, MongoDB, Go, Java, AWS, PostSQL and Kotlin
 - 📫 How to reach me: matheusweyh@gmail.com
 
 See ya!
